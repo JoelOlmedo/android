@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                     val names = listOf("asda","sada","sada")
 
                     for(name in names){
-                        
+
                         PrintToScreen(name)
                     }
                 }
